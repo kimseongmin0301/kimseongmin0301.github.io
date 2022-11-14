@@ -1155,3 +1155,45 @@ section {
   border-radius: 1rem;
   padding: 24px;
 }
+
+#credit{
+  margin: 25px 0 0 0;
+  width:400px
+}
+
+#lat-article p{
+  font-size: 26px;
+  font-family: "Poppins", sans-serif;
+  padding-bottom:1em;
+}
+
+#lat-article p span{
+  padding-bottom: 4px;
+  letter-spacing: 1px;
+  border-bottom: 3px solid #149ddd;
+}
+
+#yourself p{
+  font-size: 13px;
+  font-family: "Poppins", sans-serif;
+  padding-bottom:0.5rem;
+}
+
+#yourself p b {
+  background-color: #e4edf9;
+}
+
+#famous-saying p{
+  font-size: 26px;
+  font-family: "Poppins", sans-serif;
+  padding: 6.6em 0 0em 0;
+  font-weight: 700;
+}
+
+#famous-saying{
+  text-align: center;
+}
+
+#famous-saying p b {
+  background-color: #e4edf9;
+}
