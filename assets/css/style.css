@@ -1197,3 +1197,7 @@ section {
 #famous-saying p b {
   background-color: #e4edf9;
 }
+
+.portfolio-description b{
+  color: #149ddd;
+}

@@ -240,6 +240,15 @@
     }
   });
 
+  new Swiper('.portfolio-slider', {
+    speed: 400,
+    loop: true,
+    autoplay: {
+      delay: 5000,
+      disableOnInteraction: false
+    }
+  });
+
   /**
    * Initiate Pure Counter 
    */
