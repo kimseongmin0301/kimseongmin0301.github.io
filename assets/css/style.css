@@ -365,6 +365,17 @@ section {
   margin-bottom: 0;
 }
 
+.about .content p i{
+  color: #149ddd;
+}
+
+#short-self{
+  padding-top:20px;
+  font-size: 16px;
+  font-weight: bolder;
+
+}
+
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
